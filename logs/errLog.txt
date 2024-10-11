@@ -1,0 +1,10 @@
+20240812	22:06:18	2de628e8-eca3-40e5-9ba6-44f4746ae589	Error: Not allowed by CORS
+20240813	00:01:41	48b9f75a-52bd-4539-b1f5-36899b6e3a48	Error: ENOENT: no such file or directory, stat 'E:\Code\ExpressJS\nodejs_web_server\Routes\views\index.html'
+20240813	00:03:22	e1e8465f-ff32-4c41-bda8-bdc7bd435a9b	ForbiddenError: Forbidden
+20240813	00:07:57	5b3fb284-a6d0-4cbb-ae71-e9d976ec1674	ReferenceError: index is not defined
+20240820	14:10:14	da9097cd-5034-4009-8c36-29df9d5e1c86	TypeError: res.stauts is not a function
+20240820	14:14:54	5920e2ea-3ea2-420f-bd1e-2eb207eca7a2	TypeError: res.stauts is not a function
+20241009	14:42:27	ab045d8a-7095-4fe6-931c-e850fe9d684c	TypeError: Cannot read properties of undefined (reading 'username')
+20241009	15:42:17	a84d4e79-290c-4c07-a82b-6ff45e5ad0c6	TypeError: Cannot read properties of undefined (reading 'username')
+20241009	19:59:50	b82b4ee2-6bd1-4216-bd7d-c0d9c0c35e1c	TypeError: Cannot read properties of undefined (reading 'username')
+20241009	20:00:40	91bb0ac5-9a38-49e8-a09e-b690d23b9167	TypeError: Cannot read properties of undefined (reading 'username')
